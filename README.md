@@ -9,6 +9,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,10 +31,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,6 +57,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
