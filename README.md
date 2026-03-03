@@ -10,6 +10,7 @@
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
