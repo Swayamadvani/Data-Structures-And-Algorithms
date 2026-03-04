@@ -54,6 +54,7 @@
 | [0567-permutation-in-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sliding Window
 |  |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Math
 |  |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
