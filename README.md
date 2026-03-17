@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -17,6 +18,7 @@
 | [0001-two-sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -34,11 +36,13 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
 |  |
@@ -105,4 +109,20 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
