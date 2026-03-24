@@ -51,10 +51,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
