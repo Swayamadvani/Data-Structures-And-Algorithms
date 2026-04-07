@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0088-merge-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -36,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -52,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
