@@ -70,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
