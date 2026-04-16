@@ -19,6 +19,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3488-closest-equal-element-queries](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3488-closest-equal-element-queries) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3488-closest-equal-element-queries](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3488-closest-equal-element-queries) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Dynamic Programming
 |  |
@@ -157,4 +159,5 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3488-closest-equal-element-queries](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3488-closest-equal-element-queries) |
 <!---LeetCode Topics End-->
