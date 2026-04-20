@@ -17,6 +17,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3488-closest-equal-element-queries) |
@@ -47,6 +48,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
 | ------- |
