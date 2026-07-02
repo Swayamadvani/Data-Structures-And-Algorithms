@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
