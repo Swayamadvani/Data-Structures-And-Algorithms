@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -75,6 +76,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
