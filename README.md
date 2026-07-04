@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
@@ -151,6 +153,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Recursion
 |  |
