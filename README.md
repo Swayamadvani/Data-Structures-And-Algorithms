@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -52,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/2463-minimum-total-distance-traveled) |
 ## Greedy
@@ -92,6 +94,7 @@
 | [0011-container-with-most-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -197,4 +200,12 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
