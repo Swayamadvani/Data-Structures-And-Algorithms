@@ -25,6 +25,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/2463-minimum-total-distance-traveled) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -203,12 +207,14 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [3488-closest-equal-element-queries](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -230,4 +236,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
