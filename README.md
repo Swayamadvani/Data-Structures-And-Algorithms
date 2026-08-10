@@ -115,6 +115,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
@@ -225,6 +226,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -246,4 +248,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
