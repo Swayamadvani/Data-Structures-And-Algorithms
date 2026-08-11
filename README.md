@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
@@ -176,6 +177,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
@@ -228,6 +230,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
