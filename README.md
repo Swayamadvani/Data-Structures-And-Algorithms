@@ -24,6 +24,7 @@
 | [0239-sliding-window-maximum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -232,10 +233,12 @@
 | [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
