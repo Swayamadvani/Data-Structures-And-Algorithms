@@ -190,6 +190,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
@@ -263,4 +264,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
