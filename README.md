@@ -190,6 +190,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
@@ -267,5 +268,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
