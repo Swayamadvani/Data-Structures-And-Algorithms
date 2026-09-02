@@ -56,6 +56,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0981-time-based-key-value-store) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3488-closest-equal-element-queries](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -130,6 +131,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0981-time-based-key-value-store](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0981-time-based-key-value-store) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -221,6 +223,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0981-time-based-key-value-store) |
 | [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [3488-closest-equal-element-queries](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -273,6 +276,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
