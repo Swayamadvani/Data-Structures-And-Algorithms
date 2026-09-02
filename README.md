@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [3488-closest-equal-element-queries](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
