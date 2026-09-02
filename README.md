@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
@@ -217,6 +218,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
