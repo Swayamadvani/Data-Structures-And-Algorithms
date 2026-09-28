@@ -13,6 +13,7 @@
 | [0041-first-missing-positive](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -127,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
@@ -171,6 +173,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Recursion
@@ -288,4 +292,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Swayamadvani/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
